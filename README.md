@@ -1,5 +1,5 @@
 # Landing-Page-BalleBot 👩 📚
-Olá! Bem vindo ao meu repositório criado para fazer uma página web de landing page com apenas HTML e CSS.
+Olá! Bem vindo ao meu repositório criado para fazer uma landing page com apenas HTML e CSS.
 Projeto da Balle Bot com o vídeo da instrutora Rafaella Ballerini.
 
 - Bibliotecas/Sites
